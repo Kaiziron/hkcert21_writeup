@@ -1,5 +1,5 @@
 # The Wilderness 荊棘海 (100 point, 39 solves, ★☆☆☆☆) [First blood 🩸]
----
+
 Solved by: Kaiziron
 
 ### Description :
