@@ -1,6 +1,6 @@
 # HKCERT CTF 2021 Jack Botnet Service Writeup
 
-## Jack Botnet Service 1 (300 point, 12 solves, ★★★☆☆)
+## Jack Botnet Service 1 郵差叔叔送信純熟迅速送出 1 (300 point, 12 solves, ★★★☆☆)
 ---
 Solved by: Kaiziron and grhkm
 
@@ -95,7 +95,7 @@ cat decrypted.txt | grep hkcert21{
 ---
 
 
-## Jack Botnet Service 2 (300 point, 8 solves, ★★★☆☆)
+## Jack Botnet Service 2 郵差叔叔送信純熟迅速送出 2 (300 point, 8 solves, ★★★☆☆)
 ---
 Solved by: Kaiziron
 
